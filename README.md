@@ -14,6 +14,14 @@ You can view and interact with the dashboard here:
 
 ---
 
+---
+
+## 📸 Dashboard Preview
+![King County Dashboard](King%20County%20House%20Sales.png)
+
+
+---
+
 ## 📂 Files in this Repository
 - **HouseData.xlsx** → The dataset used for analysis.  
 - **King County House Sales.png** → Screenshot of the Tableau dashboard.  
